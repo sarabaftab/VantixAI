@@ -31,7 +31,7 @@ For collaborations, partnerships, or questions:
 ## 📄 Additional Information
 
 - [About VantixAI](ABOUT.md)
-- [Contact Us](CONTACT.md)
+- [Contact Us](Contact.md)
 
 ---
 
