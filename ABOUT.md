@@ -41,7 +41,7 @@ We believe in:
 ## 🔗 Learn More
 
 Visit our website: [https://vantixai.xyz](https://vantixai.xyz)  
-For inquiries: [contact@vantixai.xyz](mailto:sarabfsd@gmail.com)
+For inquiries: [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)
 
 ---
 
