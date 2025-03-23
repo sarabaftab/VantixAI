@@ -26,8 +26,12 @@ To empower businesses with smart, scalable, and secure AI systems that drive mea
 ## 📬 Contact Us
 
 For collaborations, partnerships, or questions:  
-📧 [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)  
-Or view our [CONTACT.md](CONTACT.md) file for more.
+📧 [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)
+
+## 📄 Additional Information
+
+- [About VantixAI](ABOUT.md)
+- [Contact Us](CONTACT.md)
 
 ---
 
