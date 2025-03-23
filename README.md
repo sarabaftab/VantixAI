@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/logo_vantixai.png" alt="VantixAI Logo" width="200"/>
+  <img src="assets/banner.png" alt="VantixAI Banner" style="width:100%;"/>
 </p>
 # VantixAI
 
