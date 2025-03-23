@@ -27,7 +27,7 @@ To empower businesses with smart, scalable, and secure AI systems that drive mea
 
 For collaborations, partnerships, or questions:  
 📧 [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)  
-Or view our [CONTACT.md](Contact.md) file for more.
+Or view our [CONTACT.md](CONTACT.md) file for more.
 
 ---
 
