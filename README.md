@@ -1,11 +1,12 @@
 <p align="center">
   <img src="/assets/logo_vantixai.png" alt="VantixAI Banner"/>
 </p>
+
 # VantixAI
 
 Welcome to the official public repository for **VantixAI**.
 
-> VantixAI builds cutting-edge AI solutions tailored to solve real-world problems in [industry/domain].
+> VantixAI builds cutting-edge AI solutions tailored to solve real-world problems for the local businesses.
 
 🔒 **Note:** The source code is private due to the sensitive and proprietary nature of our work. This repository serves as a public-facing overview of VantixAI.
 
@@ -14,9 +15,9 @@ Welcome to the official public repository for **VantixAI**.
 
 ## 🚀 What We Do
 
-- AI-powered [tools/solutions] for [problem you're solving]
-- Focused on [industry/market]
-- Built using advanced technologies in machine learning and data science
+- AI-powered solutions for data-driven decision making, predictive analytics, and process automation
+- Focused on enterprise-grade applications across industries like finance, healthcare, and ecommerce
+- Built using advanced technologies in machine learning, deep learning, computer vision, and natural language processing
 
 ## 📈 Our Vision
 
